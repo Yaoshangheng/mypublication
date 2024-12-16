@@ -1,5 +1,5 @@
 # mypublication
-mypublication cite
+
 Yao Y, Zhao Z, Li Z, Lai Z, Wang G and Jiang J(2024) Source mechanism of the 2023 Ms 5.5 earthquake in Subei, Gansu Province revealed by relocated aftershocks and InSAR: complement to the ‘shallow slip deficit’ of the eastern boundary of the Altyn Tagh fault. Front. Earth Sci. 12:1447789. doi: 10.3389/feart.2024.1447789
 姚远, 杨周胜, 姜金钟, 周仕勇. 云南小江断裂带中段的微震活动性――PALM自动检测方法在密集台阵中的应用[J]. 北京大学学报自然科学版, 2022, 58(5): 829-838.
 姚远, 赵志芳, 姜金钟, 王光明, 张帅, 赖志滨, 郑定昌. : 联合InSAR约束和余震精定位的发震构造研究—以2023年甘肃积石山Mw6.0地震为例. 地震学报. DOI: 10.11939/jass.20240047
